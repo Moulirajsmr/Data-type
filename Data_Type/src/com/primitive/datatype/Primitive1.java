@@ -20,8 +20,8 @@ public class Primitive1 {
 		System.out.println("the value of boolean= "+ m);
 		char n = 'Z';
 		System.out.println("the value of char= "+ n);
-		String o = "hi how are you 984651^*^&";
-		System.out.println("the value of string= "+ o);
+		String p = "hi how are you 984651^*^&";
+		System.out.println("the value of string= "+ p);
 			
 	}
 
